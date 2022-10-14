@@ -1,7 +1,3 @@
-##Índice
-
-\*[Todo list](#Todo)
-
 # Boilerplate
 
 This is a template for all my projects in react with this develop tools
