@@ -7,25 +7,31 @@ This is a template for all my projects in react with this develop tools
     .
     ├── ...
     ├── src                    # Root project
-    │   ├──
-    │   ├──
-    │   ├──
-    │   ├──
-    │   └──
-    └── .eslintrc
-    └── .prettierrc
+    │   ├── Components
+    │   ├── Redux
+    │   │   ├── Store
+    │   │   └── Specific Folders Area
+    │   │       ├── Slices
+    │   │       └── Thunks
+    │   ├── Views
+    │   ├── Routes
+    │   └── Styles
+    ├── .eslintrc
+    ├── .prettierrc
+    └── .editorconfig
 
 ### Todo
 
-- [ ] Install Prettier
-- [ ] Install Eslint
-- [ ] Install AirnBnb
-- [ ] Install Redux Toolkit
+- [ ] Eslint - Error len
+- [ ] AirnBnb - Style guide
+- [ ] Prettier - Style configuration
+- [ ] React Router dom
+- [ ] Redux Toolkit - States managment
 
 ### In Progress
 
-- [ ] Install Prettier
-
 ### Done ✓
 
-- [x] Install Prettier
+- [x] Eslint - Error len
+- [x] AirnBnb - Style guide
+- [x] Prettier - Style configuration
