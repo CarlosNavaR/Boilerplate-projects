@@ -14,6 +14,7 @@ specifiers:
   eslint-plugin-react: ^7.28.0
   eslint-plugin-react-hooks: ^4.3.0
   prettier: ^2.7.1
+  prop-types: ^15.8.1
   react: ^18.2.0
   react-dom: ^18.2.0
   react-redux: ^8.0.4
@@ -22,6 +23,7 @@ specifiers:
 
 dependencies:
   '@reduxjs/toolkit': 1.8.6_kuo2ie247izvzll3jejufdtq3q
+  prop-types: 15.8.1
   react: 18.2.0
   react-dom: 18.2.0_react@18.2.0
   react-redux: 8.0.4_5uumaiclxbdbzaqafclbf6maf4
@@ -1864,7 +1866,6 @@ packages:
   /object-assign/4.1.1:
     resolution: {integrity: sha512-rJgTQnkUnH1sFw8yT6VSU3zD3sWmu6sZhIseY8VX+GRu3P6F7Fu+JNDoXfklElbLJSnc3FUQHVe4cU5hj+BcUg==}
     engines: {node: '>=0.10.0'}
-    dev: true
 
   /object-inspect/1.12.2:
     resolution: {integrity: sha512-z+cPxW0QGUp0mcqcsgQyLVRDoXFQbXOwBaqyF7VIgI4TWNQsDHrBpUQslRmIfAoYWdYzs6UlKJtB2XJpTaNSpQ==}
@@ -2024,7 +2025,6 @@ packages:
       loose-envify: 1.4.0
       object-assign: 4.1.1
       react-is: 16.13.1
-    dev: true
 
   /punycode/2.1.1:
     resolution: {integrity: sha512-XRsRjdf+j5ml+y/6GKHPZbrF/8p2Yga0JPtdqTIY2Xe5ohJPD9saDJJLPvp9+NSBprVvevdXZybnj2cv8OEd0A==}

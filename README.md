@@ -22,10 +22,9 @@ This is a template for all my projects in react with this develop tools
 
 ### Todo
 
-- [ ] Eslint - Error len
+- [ ] Eslint - Error lens
 - [ ] AirnBnb - Style guide
 - [ ] Prettier - Style configuration
-- [ ] React Router dom
 - [ ] Redux Toolkit - States managment
 
 ### In Progress
@@ -35,3 +34,5 @@ This is a template for all my projects in react with this develop tools
 - [x] Eslint - Error len
 - [x] AirnBnb - Style guide
 - [x] Prettier - Style configuration
+- [x] Prettier - Style configuration
+- [x] Redux Toolkit - States managment
