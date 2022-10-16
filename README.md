@@ -36,3 +36,11 @@ This is a template for all my projects in react with this develop tools
 - [x] Prettier - Style configuration
 - [x] Prettier - Style configuration
 - [x] Redux Toolkit - States managment
+
+### Libraries
+
+- @reduxjs/toolkit
+- react-redux
+- prop-type
+- react-router-dom
+- sass
